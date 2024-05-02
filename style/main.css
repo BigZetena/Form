@@ -1,0 +1,31 @@
+header {
+  position: fixed;
+  background-color: darkred;
+  color: white;
+  padding: 25px 0;
+  width: 100%;
+  top: 0;
+  z-index: 100;
+}
+article {
+  margin-top: -97px;
+  border-radius: 0 0 45px 45px;
+  border: solid darkred 4px;
+}
+
+h2 {
+  position: sticky;
+  top: 88px;
+  border-radius: 0 0 40px 40px;
+  font-size: 40px;
+  color: white;
+  background-color: darkred;
+  padding: 25px;
+}
+p {
+  font-size: 25px;
+  padding: 25px;
+}
+.main {
+  padding-top: 100px;
+}
